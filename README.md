@@ -1,3 +1,11 @@
+#how to use it
+download or git clone
+git clone https://github.com/Jamsheelamk/assessment-trackgenesis.git
+installtion like
+npm install
+npm i bootstrap
+npmi fontawesome
+
 # FrontUi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.11.
